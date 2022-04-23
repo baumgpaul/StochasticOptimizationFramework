@@ -1,9 +1,10 @@
 # Stochastic Optimization Framework (Matlab-Framework for Stochastic Optimization)
+This repository contains a Matlab framework of a stochastic optimization framework.
+The project has been initialized by Paul Baumgartner and was developed by Paul Baumgartner and Eniz Museljic during their engagement at the Institute of Fundamentals and Theory in Electrical Engineering.
 
-[[_TOC_]]
 
 ## "Installation" guide : 
-- `git clone https://gitlab.tugraz.at/igte-research/stochastic-optimization-framework.git`
+- `git clone https://github.com/baumgpaul/StochasticOptimizationFramework`
 - `cd stochastic-optimization-framework`
 - run `init.m`
 
