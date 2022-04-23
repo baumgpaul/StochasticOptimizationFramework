@@ -1,0 +1,19 @@
+*.asv
+*.mat
+*.txt
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.psc
+*.epsc
+*.m~
+
+# Specific files :
+tester.m
+
+# Folders where the rules dont apply
+!doc/imgs/fuzzy_function_types.png
+
+# Folders : 
+IGTEOptimizer/test/
